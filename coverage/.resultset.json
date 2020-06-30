@@ -214,8 +214,22 @@
           1,
           null
         ]
+      },
+      "/Users/kathybui/turing/2-mod/exercises/blogger/app/models/article.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/kathybui/turing/2-mod/exercises/blogger/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1593549363
+    "timestamp": 1593551223
   }
 }
